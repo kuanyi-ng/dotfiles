@@ -7,3 +7,4 @@ DOTFILES_DIR="$GITHUB_REPO_LOCAL_DIR/dotfiles"
 
 ln -sf "$DOTFILES_DIR/.gitconfig" ~/.gitconfig
 ln -sf "$DOTFILES_DIR/.vimrc" ~/.vimrc
+ln -sf "$DOTFILES_DIR/Brewfile" ~/Brewfile

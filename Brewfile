@@ -115,6 +115,7 @@ brew 'webp'
 #####
 
 # TODO: need to add more cask
+# VSCode, iTerm
 
 # Latex
 # https://qiita.com/rainbartown/items/d7718f12d71e688f3573
