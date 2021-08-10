@@ -91,6 +91,11 @@ brew 'ghostscript'
 # https://formulae.brew.sh/formula/mysql
 brew 'mysql'
 
+# nmap
+# Port scanning utility for large networks
+# https://formulae.brew.sh/formula/nmap
+brew 'nmap'
+
 # Redis
 # https://formulae.brew.sh/formula/redis
 brew 'redis'
