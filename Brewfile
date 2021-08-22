@@ -105,6 +105,11 @@ brew 'redis'
 # https://formulae.brew.sh/formula/terraform
 brew 'terraform'
 
+# Terraformer
+# CLI tool to generate terraform files from existing infrastructure
+# https://formulae.brew.sh/formula/terraformer
+brew 'terraformer'
+
 # tree
 # Display directories as trees (with optional color/HTML output)
 # https://formulae.brew.sh/formula/tree
