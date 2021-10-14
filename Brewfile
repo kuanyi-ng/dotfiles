@@ -23,6 +23,9 @@ brew 'mas'
 # Flutter / Dart
 # https://dart.dev/get-dart
 tap 'dart-lang/dart'
+# fvm
+# https://fvm.app/docs/getting_started/installation
+tap 'leoafarias/fvm'
 
 # Heroku CLI
 tap 'heroku/brew'
@@ -49,6 +52,10 @@ brew 'aws-elasticbeanstalk'
 # dirnev
 # https://github.com/direnv/direnv
 brew 'direnv'
+
+# fvm
+# https://github.com/leoafarias/fvm
+brew 'fvm'
 
 # fzy
 # used together with enchancd
