@@ -122,6 +122,10 @@ brew 'terraformer'
 # https://formulae.brew.sh/formula/tree
 brew 'tree'
 
+# libusb
+# Library for USB device access
+brew 'libusb'
+
 # Webp
 # a new image format optimized for web browser
 # https://formulae.brew.sh/formula/webp
