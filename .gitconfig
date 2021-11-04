@@ -2,7 +2,11 @@
     name = kuanyi-ng
     email = raionkurane@gmail.com
 [alias]
+    br = branch
     df = diff
+    df-s = diff --staged
+    log-o = log --oneline
+    log-og = log --oneline --graph
     s = status
     clean-branch = !git branch --merged | egrep -v '\\*|main|master|dev|release' | xargs git branch -d
 [pull]
