@@ -131,6 +131,10 @@ brew 'libusb'
 # https://formulae.brew.sh/formula/webp
 brew 'webp'
 
+# wget
+# Internet file retriever
+brew 'wget'
+
 #####
 # Cask
 #####
