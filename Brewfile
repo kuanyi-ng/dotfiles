@@ -152,6 +152,11 @@ cask 'clipy'
 # https://qiita.com/rainbartown/items/d7718f12d71e688f3573
 cask 'mactex-no-gui'
 
+# Rectangle
+# Move and resize windows using keyboard shortcuts or snap areas
+# https://github.com/rxhanson/Rectangle
+cask 'rectangle'
+
 # Sequel Ace
 # MySQL/MariaDB database management for macOS
 # https://github.com/Sequel-Ace/Sequel-Ace
