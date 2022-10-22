@@ -70,6 +70,10 @@ brew 'wget'
 # TODO: need to add more cask
 # VSCode, iTerm
 
+# 1Password
+# https://1password.com/
+cask '1password'
+
 # Alfred
 # https://www.alfredapp.com/
 cask 'alfred'
@@ -81,6 +85,10 @@ cask 'clipy'
 # Google Chrome
 # https://google.com/chrome
 cask 'google-chrome'
+
+# Google Japanese Ime
+# https://www.google.co.jp/ime/
+cask 'google-japanese-ime'
 
 # Latex
 # https://qiita.com/rainbartown/items/d7718f12d71e688f3573
@@ -94,6 +102,10 @@ cask 'obsidian'
 # Move and resize windows using keyboard shortcuts or snap areas
 # https://github.com/rxhanson/Rectangle
 cask 'rectangle'
+
+# VSCode
+# https://code.visualstudio.com/
+cask 'visual-studio-code'
 
 #####
 # mas
