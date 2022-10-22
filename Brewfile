@@ -78,6 +78,10 @@ cask 'alfred'
 # https://github.com/Clipy/Clipy
 cask 'clipy'
 
+# Google Chrome
+# https://google.com/chrome
+cask 'google-chrome'
+
 # Latex
 # https://qiita.com/rainbartown/items/d7718f12d71e688f3573
 cask 'mactex-no-gui'
