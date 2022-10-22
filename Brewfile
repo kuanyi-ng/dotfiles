@@ -70,6 +70,10 @@ brew 'wget'
 # TODO: need to add more cask
 # VSCode, iTerm
 
+# Alfred
+# https://www.alfredapp.com/
+cask 'alfred'
+
 # Clipy
 # https://github.com/Clipy/Clipy
 cask 'clipy'
