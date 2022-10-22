@@ -71,6 +71,7 @@ brew 'wget'
 # VSCode, iTerm
 
 # Clipy
+# https://github.com/Clipy/Clipy
 cask 'clipy'
 
 # Latex
