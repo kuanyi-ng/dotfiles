@@ -13,3 +13,5 @@
     ff = only
 [init]
     defaultBranch = main
+[core]
+    editor = vim
