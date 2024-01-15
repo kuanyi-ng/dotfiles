@@ -68,6 +68,9 @@ brew 'libusb'
 # Internet file retriever
 brew 'wget'
 
+# tldr
+brew 'tldr'
+
 #####
 # Cask
 #####
@@ -87,6 +90,9 @@ cask 'alfred'
 # https://github.com/Clipy/Clipy
 cask 'clipy'
 
+# Discord
+cask 'discord'
+
 # Google Chrome
 # https://google.com/chrome
 cask 'google-chrome'
@@ -99,6 +105,9 @@ cask 'google-japanese-ime'
 # https://qiita.com/rainbartown/items/d7718f12d71e688f3573
 cask 'mactex-no-gui'
 
+# Notion
+cask 'notion'
+
 # Obsidian
 # https://obsidian.md/
 cask 'obsidian'
@@ -107,6 +116,14 @@ cask 'obsidian'
 # Move and resize windows using keyboard shortcuts or snap areas
 # https://github.com/rxhanson/Rectangle
 cask 'rectangle'
+
+# Slack
+cask 'slack'
+
+# Skitch
+# Screenshot & Annotation
+# https://evernote.com/products/skitch
+cask 'skitch'
 
 # VSCode
 # https://code.visualstudio.com/
