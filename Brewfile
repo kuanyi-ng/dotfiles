@@ -20,6 +20,11 @@ brew 'mas'
 # Brew
 #####
 
+# delta
+# A syntax-highlighting pager for git, diff, and grep output
+# https://github.com/dandavison/delta
+brew 'git-delta'
+
 # fzy
 # used together with enchancd
 # https://github.com/jhawthorn/fzy

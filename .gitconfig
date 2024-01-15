@@ -15,3 +15,21 @@
     defaultBranch = main
 [core]
     editor = vim
+    pager = delta # delta: https://github.com/dandavison/delta
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+
+# https://github.com/dandavison/delta
+[interactive]
+    diffFilter = delta --color-only
+[delta]
+    navigate = true
+[merge]
+    conflictstyle = diff3
+[diff]
+    colorMoved = default
+
+
