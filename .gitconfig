@@ -8,6 +8,7 @@
     log-o = log --oneline
     log-og = log --oneline --graph
     s = status
+    sw = switch
     clean-branch = !git branch --merged | egrep -v '\\*|main|master|dev|release' | xargs git branch -d
 [pull]
     ff = only
