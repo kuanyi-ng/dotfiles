@@ -39,5 +39,7 @@ defaults write NSGlobalDomain KeyRepeat -int 2
 defaults write NSGlobalDomain InitialKeyRepeat -int 15
 ## フルキーボードアクセスを有効化
 defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
+## Allow key repeats in VSCode (for vim)
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
 
 # Ref: https://zenn.dev/keyamin/articles/970af2dca9c4c5
