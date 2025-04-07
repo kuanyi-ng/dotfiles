@@ -97,6 +97,9 @@ cask 'discord'
 # https://google.com/chrome
 cask 'google-chrome'
 
+# Google Drive
+cask 'google-drive'
+
 # Google Japanese Ime
 # https://www.google.co.jp/ime/
 cask 'google-japanese-ime'
