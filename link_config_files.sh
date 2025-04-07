@@ -9,3 +9,4 @@ ln -sf "$DOTFILES_DIR/.gitconfig" ~/.gitconfig
 ln -sf "$DOTFILES_DIR/.vimrc" ~/.vimrc
 ln -sf "$DOTFILES_DIR/.tmux.conf" ~/.tmux.conf
 ln -sf "$DOTFILES_DIR/Brewfile" ~/Brewfile
+ln -sf "$DOTFILES_DIR/.config/starship.toml" ~/.config/starship.toml
