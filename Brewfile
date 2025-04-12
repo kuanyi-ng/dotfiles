@@ -1,3 +1,5 @@
+# This list the minimum installs required for the machines I use
+
 #####
 # Tap
 #####
@@ -28,11 +30,11 @@ brew 'git-delta'
 # fzy
 # used together with enchancd
 # https://github.com/jhawthorn/fzy
-brew 'fzy'
+# brew 'fzy'
 
 # GNU GCC
 # https://formulae.brew.sh/formula/gcc
-brew 'gcc'
+# brew 'gcc'
 
 # GitHub CLI
 # https://cli.github.com/
@@ -53,7 +55,7 @@ brew 'grep'
 # nmap
 # Port scanning utility for large networks
 # https://formulae.brew.sh/formula/nmap
-brew 'nmap'
+# brew 'nmap'
 
 # tree
 # Display directories as trees (with optional color/HTML output)
@@ -62,7 +64,7 @@ brew 'tree'
 
 # libusb
 # Library for USB device access
-brew 'libusb'
+# brew 'libusb'
 
 # wget
 # Internet file retriever
@@ -75,12 +77,13 @@ brew 'tldr'
 # Cask
 #####
 
-# TODO: need to add more cask
-# VSCode, iTerm
+# iterm2
+# https://iterm2.com/
+cask 'iterm2'
 
 # 1Password
 # https://1password.com/
-cask '1password'
+# cask '1password'
 
 # Alfred
 # https://www.alfredapp.com/
@@ -91,14 +94,14 @@ cask 'alfred'
 cask 'clipy'
 
 # Discord
-cask 'discord'
+# cask 'discord'
 
 # Google Chrome
 # https://google.com/chrome
 cask 'google-chrome'
 
 # Google Drive
-cask 'google-drive'
+# cask 'google-drive'
 
 # Google Japanese Ime
 # https://www.google.co.jp/ime/
@@ -109,11 +112,11 @@ cask 'google-japanese-ime'
 cask 'mactex-no-gui'
 
 # Notion
-cask 'notion'
+# cask 'notion'
 
 # Obsidian
 # https://obsidian.md/
-cask 'obsidian'
+# cask 'obsidian'
 
 # Rectangle
 # Move and resize windows using keyboard shortcuts or snap areas
@@ -121,12 +124,12 @@ cask 'obsidian'
 cask 'rectangle'
 
 # Slack
-cask 'slack'
+# cask 'slack'
 
 # Skitch
 # Screenshot & Annotation
 # https://evernote.com/products/skitch
-cask 'skitch'
+# cask 'skitch'
 
 # VSCode
 # https://code.visualstudio.com/
@@ -136,4 +139,3 @@ cask 'visual-studio-code'
 # mas
 #####
 
-# TODO: need to install apps from AppStore using mas
