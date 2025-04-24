@@ -135,6 +135,10 @@ cask 'rectangle'
 # https://code.visualstudio.com/
 cask 'visual-studio-code'
 
+# AS timer
+# https://www.alinofsoftware.ch/apps/products-timer/index.html
+cask 'as-timer'
+
 #####
 # mas
 #####
